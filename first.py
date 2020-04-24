@@ -1,7 +1,7 @@
 import speech_recognition as sr
 import pyttsx3
 
-filename="C:\\Users\\anupk\\OneDrive\\Desktop\\PBL\\test.wav"
+filename="test.wav"
 r = sr.Recognizer()
 
 with sr.AudioFile(filename) as source:
