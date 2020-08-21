@@ -1,0 +1,9 @@
+Step 1: Run Model_Jupyter.ipynb file
+
+Step 2: It will create a .model file in your directory under 	result folder(made by itself).
+
+Step 3: Now run test.py file
+
+It will record your voice and give you output. Please consider the surrounding and noise. Also consider the pitch of voice.
+
+The output of test.py will depend upon the model made by Model_Jupyter.ipynb file. So if it will give error, please check the path of result folder and mlp_classifier.model file.
